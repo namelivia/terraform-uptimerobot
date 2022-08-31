@@ -2,8 +2,8 @@ terraform {
   required_version = ">= 1.0.11"
   required_providers {
     uptimerobot = {
-      source = "louy/uptimerobot"
-      version = "0.5.1"
+      source = "vexxhost/uptimerobot"
+      version = "0.8.0"
     }
   }
 }
